@@ -1,0 +1,8 @@
+div{
+    color: darkmagenta;
+    background-color: lightpink;
+    border: 20px solid hotpink;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
