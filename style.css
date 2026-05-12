@@ -6,3 +6,11 @@ div{
     padding: 20px;
     margin: 10px;
 }
+#third{
+    color:orange;
+    background-color:bisque;
+    border: 20px solid orangered;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
